@@ -1,0 +1,4 @@
+smol = true
+
+[install]
+registry = "http://registry.npmmirror.com"
