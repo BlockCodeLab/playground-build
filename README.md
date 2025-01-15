@@ -1,15 +1,7 @@
-# playgrounds-build
+# BlockCode Playgrounds 编译打包工具
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
+使用方法：
 
 ```bash
-bun run builder.js
+$ playground-build <PACKAGE-DIR-1> <PACKAGE-DIR-2> <PACKAGE-FOLDER/*>
 ```
-
-This project was created using `bun init` in bun v1.1.43. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
