@@ -5,8 +5,7 @@
   "description": "Building tool for BlockCode Playgrounds.",
   "author": {
     "name": "Yeqin Gong",
-    "email": "gon@gyeq.in",
-    "url": "http://gon.gyeq.in/"
+    "email": "yeqin.gong@qq.com"
   },
   "type": "module",
   "module": "lib/builder.js",
